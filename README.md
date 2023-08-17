@@ -2,8 +2,6 @@
 
 Build Airbnb Clone with Tailwind CSS!
 
-We will be focusing on Tailwind CSS, including:
-
 -   Header
     ![image](https://user-images.githubusercontent.com/63979210/130708813-5058107f-8850-47d1-acdb-30e10df93c2e.png)
 
