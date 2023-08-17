@@ -21,5 +21,3 @@ We will be focusing on Tailwind CSS, including:
 
 -   Footer
     ![image](https://user-images.githubusercontent.com/63979210/130708733-a88ab00b-01e3-4961-9689-9f744112e758.png)
-
-## We will also look into mobile responsive and how to configure JIT compiler
